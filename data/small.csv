@@ -1,0 +1,30 @@
+﻿Date,Type,Title,Info,Currency,Amount,"Fees & Taxes",Net,Status,"Availability Date"
+"January 31, 2022",Deposit,"$15.34 sent to your bank account",,USD,--,--,--
+"January 31, 2022",Fee,"Listing fee","Listing #1122334455",USD,--,-$0.20,-$0.20
+"January 28, 2022",Fee,"Credit for transaction fee on shipping","Order #2233445566",USD,--,$0.09,$0.09
+"January 28, 2022",Tax,"Refund to buyer for sales tax","Order #2233445566",USD,--,$0.16,$0.16
+"January 28, 2022",Refund,"Partial refund to buyer for Order #2233445566",,USD,-$1.91,--,-$1.91
+"January 28, 2022",Fee,"Credit for processing fee","Order #2233445566",USD,--,$0.06,$0.06
+"January 28, 2022",Shipping,"USPS shipping label","Label #3344556677",USD,--,-$14.25,-$14.25
+"January 27, 2022",Fee,"Transaction fee: Shipping","Order #2233445566",USD,--,-$0.86,-$0.86
+"January 27, 2022",Fee,"Transaction fee: Vegan Leather White & Red Vintage Picnic...","Order #2233445566",USD,--,-$2.00,-$2.00
+"January 27, 2022",Sale,"Payment for Order #2233445566",,USD,$62.17,--,$62.17
+"January 27, 2022",Tax,"Sales tax paid by buyer","Order #2233445566",USD,--,-$5.07,-$5.07
+"January 27, 2022",Fee,"Processing fee","Order #2233445566",USD,--,-$2.12,-$2.12
+"January 25, 2022",Shipping,"USPS return shipping label","Label #111112793095",USD,--,-$8.85,-$8.85
+"January 24, 2022",Deposit,"$60.23 sent to your bank account",,USD,--,--,--
+"January 23, 2022",Fee,"Credit for transaction fee on shipping","Order #4455667788",USD,--,$0.44,$0.44
+"January 23, 2022",Fee,"Credit for processing fee","Order #4455667788",USD,--,$0.26,$0.26
+"January 23, 2022",Refund,"Partial refund to buyer for Order #4455667788",,USD,-$8.70,--,-$8.70
+"January 22, 2022",Fee,"Listing fee","Listing #982221244",USD,--,-$0.20,-$0.20
+"January 21, 2022",Fee,"Processing fee","Order #4455667788",USD,--,-$1.59,-$1.59
+"January 21, 2022",Sale,"Payment for Order #4455667788",,USD,$44.70,--,$44.70
+"January 21, 2022",Fee,"Transaction fee: Sweet Vintage White & Navy Laura Ashley ...","Order #4455667788",USD,--,-$1.75,-$1.75
+"January 18, 2022",Payment,"Charge for refund 6677889900",,USD,$3.29,--,$3.29
+"January 18, 2022",Fee,"Credit for transaction fee on shipping","Order #5566778899",USD,--,$0.14,$0.14
+"January 18, 2022",Payment,"Charge for refund 5566778899",,USD,$2.66,--,$2.66
+"January 18, 2022",Fee,"Credit for processing fee","Order #6677889900",USD,--,$0.11,$0.11
+"January 18, 2022",Tax,"Refund to buyer for sales tax","Order #6677889900",USD,--,$0.24,$0.24
+"January 18, 2022",Refund,"Partial refund to buyer for Order #6677889900",,USD,-$3.64,--,-$3.64
+"January 18, 2022",Fee,"Listing fee","Listing #1144443030",USD,--,-$0.20,-$0.20
+"March 1, 2022",Payment,"Card Payment","Visa ending in xxxx",USD,--,$13.40,$13.40
